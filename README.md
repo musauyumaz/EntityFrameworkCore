@@ -59,5 +59,7 @@
 - ## [#53 - Query Log](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2353%20-%20Query%20Log/ReadMe.md)
 - ## [#54 - Query Tags](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2354%20-%20Query%20Tags/ReadMe.md)
 - ## [#55 - Global Query Filters](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2355%20-%20Global%20Query%20Filters/Readme.md)
+- ## [#56 - Owned Entities And Table Splitting](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2356%20-%20Owned%20Entities%20And%20Table%20Splitting/ReadMe.md)
+- ## [#57 - Temporal Tables Kullanımı](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2357%20-%20Temporal%20Tables%20Kullan%C4%B1m%C4%B1/ReadMe.md)
 
 
