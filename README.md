@@ -62,5 +62,6 @@
 - ## [#56 - Owned Entities And Table Splitting](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2356%20-%20Owned%20Entities%20And%20Table%20Splitting/ReadMe.md)
 - ## [#57 - Temporal Tables Kullanımı](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2357%20-%20Temporal%20Tables%20Kullan%C4%B1m%C4%B1/ReadMe.md)
 - ## [#58 - Derinlemesine Connection Resiliency](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2358%20-%20Derinlemesine%20Connection%20Resiliency/ReadMe.md)
+- ## [#59 - Derinlemesine Data Concurrency](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2359%20-%20Derinlemesine%20Data%20Concurrency/ReadMe.md)
 
 
