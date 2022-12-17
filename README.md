@@ -63,5 +63,6 @@
 - ## [#57 - Temporal Tables Kullanımı](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2357%20-%20Temporal%20Tables%20Kullan%C4%B1m%C4%B1/ReadMe.md)
 - ## [#58 - Derinlemesine Connection Resiliency](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2358%20-%20Derinlemesine%20Connection%20Resiliency/ReadMe.md)
 - ## [#59 - Derinlemesine Data Concurrency](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2359%20-%20Derinlemesine%20Data%20Concurrency/ReadMe.md)
+- ## [#60 - Value Conversions Yapılandırmasıyla Verisel Dönüşümler](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2360%20-%20Value%20Conversions%20Yap%C4%B1land%C4%B1rmas%C4%B1yla%20Verisel%20D%C3%B6n%C3%BC%C5%9F%C3%BCmler/ReadMe.md)
 
 
