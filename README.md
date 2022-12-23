@@ -64,5 +64,7 @@
 - ## [#58 - Derinlemesine Connection Resiliency](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2358%20-%20Derinlemesine%20Connection%20Resiliency/ReadMe.md)
 - ## [#59 - Derinlemesine Data Concurrency](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2359%20-%20Derinlemesine%20Data%20Concurrency/ReadMe.md)
 - ## [#60 - Value Conversions Yapılandırmasıyla Verisel Dönüşümler](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2360%20-%20Value%20Conversions%20Yap%C4%B1land%C4%B1rmas%C4%B1yla%20Verisel%20D%C3%B6n%C3%BC%C5%9F%C3%BCmler/ReadMe.md)
+- ## [#61 - Transactions](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2361%20-%20Transactions/ReadMe.md)
+- ## [#62 - In-Memory'de ki Database'de Çalışmak](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2362%20-%20In-Memory'de%20ki%20Database'de%20%C3%87al%C4%B1%C5%9Fmak/ReadMe.md)
 
 
