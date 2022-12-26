@@ -66,5 +66,6 @@
 - ## [#60 - Value Conversions Yapılandırmasıyla Verisel Dönüşümler](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2360%20-%20Value%20Conversions%20Yap%C4%B1land%C4%B1rmas%C4%B1yla%20Verisel%20D%C3%B6n%C3%BC%C5%9F%C3%BCmler/ReadMe.md)
 - ## [#61 - Transactions](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2361%20-%20Transactions/ReadMe.md)
 - ## [#62 - In-Memory'de ki Database'de Çalışmak](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2362%20-%20In-Memory'de%20ki%20Database'de%20%C3%87al%C4%B1%C5%9Fmak/ReadMe.md)
+- ## [#63 - EF Core Select Sorgularını Güçlendirme Teknikleri](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2363%20-%20EF%20Core%20Select%20Sorgular%C4%B1n%C4%B1%20G%C3%BC%C3%A7lendirme%20Teknikleri/ReadMe.md)
 
 
