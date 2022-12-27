@@ -67,5 +67,6 @@
 - ## [#61 - Transactions](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2361%20-%20Transactions/ReadMe.md)
 - ## [#62 - In-Memory'de ki Database'de Çalışmak](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2362%20-%20In-Memory'de%20ki%20Database'de%20%C3%87al%C4%B1%C5%9Fmak/ReadMe.md)
 - ## [#63 - EF Core Select Sorgularını Güçlendirme Teknikleri](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2363%20-%20EF%20Core%20Select%20Sorgular%C4%B1n%C4%B1%20G%C3%BC%C3%A7lendirme%20Teknikleri/ReadMe.md)
+- ## [#64 - EF Core 7 Yenilikleri Bulk Update ve Delete İşlemleri](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2364%20-%20EF%20Core%207%20Yenilikleri%20Bulk%20Update%20ve%20Delete%20%C4%B0%C5%9Flemleri/ReadMe.md)
 
 
