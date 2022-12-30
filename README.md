@@ -69,5 +69,6 @@
 - ## [#63 - EF Core Select Sorgularını Güçlendirme Teknikleri](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2363%20-%20EF%20Core%20Select%20Sorgular%C4%B1n%C4%B1%20G%C3%BC%C3%A7lendirme%20Teknikleri/ReadMe.md)
 - ## [#64 - EF Core 7 Yenilikleri Bulk Update ve Delete İşlemleri](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2364%20-%20EF%20Core%207%20Yenilikleri%20Bulk%20Update%20ve%20Delete%20%C4%B0%C5%9Flemleri/ReadMe.md)
 - ## [#65 - EF Core 7 Yenilikleri - Entity’lere Service Inject Etme](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2365%20-%20EF%20Core%207%20Yenilikleri%20-%20Entity%E2%80%99lere%20Service%20Inject%20Etme/ReadMe.md)
+- ## [#66 - EF Core 7 Yenilikleri - Entity Splitting](https://github.com/musauyumaznotes/EntityFrameworkCore/blob/main/%2366%20-%20EF%20Core%207%20Yenilikleri%20-%20Entity%20Splitting/ReadMe.md)
 
 
